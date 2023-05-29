@@ -15,7 +15,10 @@ I'm a proactive, creative and resolutive profesional. It wasn't a time ago that 
 ![gmail](https://github.com/Sgieco/Sgieco/blob/main/gmail%20(1).png)
 <a href='https://www.linkedin.com/in/sofia-gieco-3b4015b4/'>![lkdn](https://github.com/Sgieco/Sgieco/blob/main/linkedin%20(1).png)</a>
 
+<br></br>
 
+✅ Tech Stack:
+--------------------------------------------------------------------------------------------------------------------------
 <!--
 **Sgieco/Sgieco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
