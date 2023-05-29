@@ -19,7 +19,7 @@ I'm a proactive, creative and resolutive profesional. It wasn't a time ago that 
 
 ✅ Tech Stack:
 --------------------------------------------------------------------------------------------------------------------------
-![js](https://github.com/Sgieco/Sgieco/blob/main/javascript.svg)
+![js](https://github.com/Sgieco/Sgieco/blob/main/javascript.svg)  ![bootcamp](https://github.com/Sgieco/Sgieco/blob/main/bootstrap.svg) ![camva](https://github.com/Sgieco/Sgieco/blob/main/canva.svg) ![express](https://github.com/Sgieco/Sgieco/blob/main/express.svg) ![java](https://github.com/Sgieco/Sgieco/blob/main/java.jpg) ![mysql](https://github.com/Sgieco/Sgieco/blob/main/mysql.svg) ![node](https://github.com/Sgieco/Sgieco/blob/main/nodejs.svg) ![npm](https://github.com/Sgieco/Sgieco/blob/main/np.svg) ![postman](https://github.com/Sgieco/Sgieco/blob/main/postman.svg) ![react](https://github.com/Sgieco/Sgieco/blob/main/react.svg) ![trello](https://github.com/Sgieco/Sgieco/blob/main/trello.svg)
 <!--
 **Sgieco/Sgieco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
