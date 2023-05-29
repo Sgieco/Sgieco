@@ -19,6 +19,7 @@ I'm a proactive, creative and resolutive profesional. It wasn't a time ago that 
 
 ✅ Tech Stack:
 --------------------------------------------------------------------------------------------------------------------------
+![js](https://github.com/Sgieco/Sgieco/blob/main/javascript.svg)
 <!--
 **Sgieco/Sgieco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
